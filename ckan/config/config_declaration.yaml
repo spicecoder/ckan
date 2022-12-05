@@ -1583,6 +1583,7 @@ groups:
           The ``<NAME>`` string is replaced with the name of the dataset that was edited.
 
       - key: licenses_group_url
+        default: https://object-store.rc.nectar.org.au/v1/AUTH_774e6e3e22bf41ef8e0596dba0d5c7fe/ckan_license_test/aurin_data_licence_list.json
         example: file:///path/to/my/local/json-list-of-licenses.json
         description: |
           A url pointing to a JSON file containing a list of license objects. This list
